@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "css": "^3.0.0",
+    "normalize": "^0.3.1"
+  }
+}
